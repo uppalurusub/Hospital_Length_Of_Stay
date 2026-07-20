@@ -1,0 +1,23 @@
+{
+    "age": 45,
+    "gender": "Male",
+    "admission_type": "Emergency",
+    "primary_diagnosis": "Pneumonia",
+    "comorbidity_count": 2,
+    "previous_admissions": 1,
+    "severity_score": 7.5,
+    "insurance_type": "Private",
+    "smoker": "No",
+    "bmi": 27.4,
+    "hospital_department": "Cardiology",
+    "admission_source": "Referral",
+    "discharge_disposition": "Home",
+    "marital_status": "Married",
+    "heart_rate": 99.0,
+    "blood_pressure": 160.0,
+    "temperature": 98.0,
+    "oxygen_saturation": 96.0,
+    "glucose": 190.0,
+    "creatinine": 2.86,
+    "hemoglobin": 12.7
+}
